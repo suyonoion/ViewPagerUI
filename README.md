@@ -9,11 +9,21 @@ PagerTabStrip.
 Title page with custom text and icons.
 can be clicked on and scroolview title if too many titles and pages.
 
-	TERIMA KASIH.
+Screenshoot 1 :
+
+![alt tag](https://raw.githubusercontent.com/suyonoion/ViewPagerUI/master/app/src/main/res/img/SS1.png)
+
+Screenshoot 2 :
+
+![alt tag](https://raw.githubusercontent.com/suyonoion/ViewPagerUI/master/app/src/main/res/img/SS2.png)
+
+TERIMA KASIH.
 	T-E-R-I-M-A ___ K.A.S.I.H
+	
 ------------------------------------------------------------------------
+
 	CREDIT_______: Suyono _ion
-	Contact Me___: 
+	Contact Me___:
 	Email_________ suyonoion8@gmail.com
 	Facebook______ suyono.ion@facebook.com
 	GitHub________ https://github.com/suyonoion/ViewPagerUI
