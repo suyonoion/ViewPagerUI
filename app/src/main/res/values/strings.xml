@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ViewPager UI</string>
+    <string name="panah1">\u003c</string>
+    <string name="panah2">\u003e</string>
+    <string name="viewpager">ViewPager UI</string>
+    <string name="klikme">Go…\u0021 \u0021 \u0021</string>
+    <string name="notiftxt1">Selamat Ya, BERHASIL…\u0021 \u0021 \u0021</string>
+    <string name="notiftxt2">Terimakasih ya..</string>
+    <string name="notiftxt3">Sudah Gunain Guide ini…</string>
+    <string name="author">Suyonoion</string>
+    <string name="copyright1">"© 2015 by Suyono (ion).
+All rights reserved."</string>
+</resources>
